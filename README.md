@@ -1,4 +1,4 @@
- 📝 Development Process
+📝 Development Process
 
 The project began with the creation of the HTML structure. The layout was designed to be simple and intuitive, and the use of styles and images made the development process engaging and enjoyable.
 
@@ -6,7 +6,11 @@ During the initial implementation, adjustments were required in the form structu
 
 After the front-end structure was stabilized, the JavaScript file was developed. My colleague was responsible for implementing the logic to capture form elements, store the data, and handle deletion operations. The implementation process was straightforward and efficient, with minimal difficulties encountered.
 
-By the end of the development process, the application achieved proper integration between structure (HTML), styling (CSS), and functionality (JavaScript), resulting in a clean and functional user interface.
+Before concluding the project, we decided to redesign and enhance the styling to improve the overall visual presentation. The layout was refined, visual elements were adjusted, and the interface was polished to achieve a more appealing and professional look.
+
+To finalize the experience, we added the character selection theme music from Mortal Kombat: Deception, creating a more immersive and sophisticated atmosphere that better matched the theme and identity of the page.
+
+By the end of the development process, the application achieved proper integration between structure (HTML), styling (CSS), and functionality (JavaScript), resulting in a clean, functional, and visually enhanced user interface.
 
 ⚙️ Project Structure
 
@@ -30,7 +34,6 @@ Data deletion handling
 
 Simply open the project in a browser environment to test all functionalities, including form submission and element management.
 
-
 -------------------------------------------------------------TRADUÇÃO---------------------------------------------------------------------
 
 📝 Processo de Desenvolvimento
@@ -41,7 +44,11 @@ Durante a implementação inicial, foram necessários ajustes na estrutura do fo
 
 Após a estabilização do front-end, foi desenvolvido o arquivo JavaScript. Minha colega ficou responsável por implementar a lógica para capturar os elementos do formulário, armazenar os dados e realizar a exclusão quando necessário. O processo foi simples e rápido, sem grandes dificuldades.
 
-Ao final do desenvolvimento, a aplicação alcançou integração adequada entre estrutura (HTML), estilização (CSS) e funcionalidade (JavaScript), resultando em uma interface limpa e funcional.
+Antes de concluir o projeto, decidimos repaginar e aprimorar o estilo da aplicação para melhorar a apresentação visual. O layout foi refinado, elementos visuais foram ajustados e a interface foi polida para alcançar um visual mais bonito e profissional.
+
+Para finalizar a experiência, adicionamos a música tema de seleção de personagem de Mortal Kombat: Deception, criando uma atmosfera mais imersiva e sofisticada, alinhada com a identidade temática da página.
+
+Ao final do desenvolvimento, a aplicação alcançou integração adequada entre estrutura (HTML), estilização (CSS) e funcionalidade (JavaScript), resultando em uma interface limpa, funcional e visualmente aprimorada.
 
 ⚙️ Estrutura do Projeto
 
